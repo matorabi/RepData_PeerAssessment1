@@ -1,9 +1,12 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
+output:
+  html_document: 
     keep_md: true
+  pdf_document: default
+  
 ---
+# Reproducible Research: Peer Assessment 1
+
 
 
 
